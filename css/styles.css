@@ -1,0 +1,39 @@
+@media screen and(min-width: 480px)and(max-width:480px)and((max-width:767px) {
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color:orange
+}
+media screen and (min-width:768px) }    body  {
+    background-color: yellowbrown;
+  }
+h1 {
+color:red;
+font background:black
+font size:12
+font weight:8
+
+font align:center
+}
+h2 {
+color:purple;
+font background:orange
+font size 12
+font weight 8
+
+font align:center
+}
+img {
+  test-box {
+    border: 2px solid brown;
+    padding:6px
+    margin:20px
+    background-color: orange
+  width:30px
+  height:30px
+}
+.author {
+  color:maroon;
+}
+p.author {
+  font-size: 15px;
+}
